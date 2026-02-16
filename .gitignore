@@ -1,0 +1,26 @@
+# Eclipse files
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.project
+.classpath
+
+# Java build files
+*.class
+*.log
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
