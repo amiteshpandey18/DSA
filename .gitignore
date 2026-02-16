@@ -24,3 +24,12 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+.idea
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+.gradle/
+
+
