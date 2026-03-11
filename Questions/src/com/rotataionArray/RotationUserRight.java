@@ -25,7 +25,6 @@ public class RotationUserRight {
 			for (int j = arr.length - 1; j > 0; j--) {
 				arr[j] = arr[j - 1];
 			}
-
 			arr[0] = temp;
 		}
 
